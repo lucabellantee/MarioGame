@@ -3,7 +3,7 @@ Small game created using box2d in c / c ++. The instructions are contained in th
 
 
 
-               INSTRUCTIONS:
+                                                                  INSTRUCTIONS:
 
 ************************************************** *******
 
